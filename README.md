@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Anmol_Codes.svg?style=social&label=Follow%20%40Anmol_Codes)](https://twitter.com/Anmol_Codes)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Anmol_Codes.svg?style=social&label=Follow%20%40Anmol_Codes)](https://github.com/NasrinShaikh08)
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
